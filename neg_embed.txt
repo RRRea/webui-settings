@@ -1,0 +1,5 @@
+https://huggingface.co/tolerantpancake/NegativeMutation/resolve/main/NegMutation-500.pt
+https://huggingface.co/tolerantpancake/NegativeLowResolution/resolve/main/NegLowRes-2400.pt
+https://huggingface.co/nguyenquochungzero/negative/resolve/main/bad_prompt_version2.pt
+https://huggingface.co/nguyenquochungzero/negative/resolve/main/bad-image-v2-39000.pt
+https://huggingface.co/nguyenquochungzero/negative/resolve/main/ng_deepnegative_v1_75t.pt
