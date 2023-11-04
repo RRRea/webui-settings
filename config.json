@@ -207,5 +207,6 @@
     "tac_translation.oldFormat": false,
     "tac_translation.searchByTranslation": true,
     "tac_extra.extraFile": "extra-quality-tags.csv",
-    "tac_extra.addMode": "Insert before"
+    "tac_extra.addMode": "Insert before",
+    "gradio_theme": "NoCrypt/miku"
 }
