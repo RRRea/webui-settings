@@ -2,7 +2,7 @@
     "txt2img/Prompt/visible": true,
     "txt2img/Prompt/value": "1girl, best quality, masterpiece, white background, looking at viewer, ",
     "txt2img/Negative prompt/visible": true,
-    "txt2img/Negative prompt/value": "bad_prompt_version2, bad-artist, bad-artist-anime, bad-image-v2-39000, bad-hands-5, EasyNegative, EasyNegativeV2, NegLowRes-2400, NegMutation-500, ng_deepnegative_v1_75t, verybadimagenegative_v1.3, ",
+    "txt2img/Negative prompt/value": "watercolor, oil painting, photo, deformed, realism, disfigured, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad_prompt_version2, bad-artist, bad-artist-anime, bad-image-v2-39000, bad-hands-5, EasyNegative, EasyNegativeV2, NegLowRes-2400, NegMutation-500, ng_deepnegative_v1_75t, verybadimagenegative_v1.3, ",
     "txt2img/Styles/visible": true,
     "txt2img/Styles/value": [],
     "txt2img/Sampling method/visible": true,
